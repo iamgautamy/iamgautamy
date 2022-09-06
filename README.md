@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Yadav</h1>
 <h3 align="center">Independent and self motivated Under Graduate. Working with Machine Learning , Deep Learning Algorithms and SQL with major interest in Computer Vision and Analytics and proficient with frameworks like Tensorflow and Sci-KitLearn.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgautamy" alt="iamgautamy" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/iamgautamy=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Deep Learning**
 
