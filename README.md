@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gautam Yadav</h1>
-<h3 align="center">Independent and self motivated Under Graduate. Working with Machine Learning , Deep Learning Algorithms and SQL with major interest in Computer Vision and Analytics and proficient with frameworks like Tensorflow and Sci-KitLearn.</h3>
+<h3 align="center">Machine Learning and Deep Learning enthusiast with 2+ years of experience in Python,ML,DL,SQL. Previously worked at Samsung Prism as Research
+Project Intern.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgautamy" alt="iamgautamy" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 📫 How to reach me **gautamybk7@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1F9qu_6ELdtq5FxoVeQC5KkgsAWJbyEB7/view?usp=sharing](https://drive.google.com/file/d/1JpAXVLI6Y100MqswIteVhBnq_s1RNVdy/view?usp=share_link)]([https://drive.google.com/file/d/1F9qu_6ELdtq5FxoVeQC5KkgsAWJbyEB7/view?usp=sharing](https://drive.google.com/file/d/1JpAXVLI6Y100MqswIteVhBnq_s1RNVdy/view?usp=share_link))
+- 📄 My Resume : https://drive.google.com/file/d/1jeoU6_sw4hTQAxRsagqcH3GKzYQFk_iA/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
