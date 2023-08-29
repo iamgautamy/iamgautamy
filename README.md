@@ -2,7 +2,7 @@
 Machine Learning and Deep Learning enthusiast with 2+ years of experience in Python,ML,DL,SQL. Previously worked at Samsung Prism as Research Project Intern.
 
 # 📝 Resume
-[![Resume]([https://img.shields.io/badge/Resume-blue)](https://drive.google.com/file/d/1BDTCGrJzboqXjVq7GRMHcDknY-N4k1DI/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-blue)](https://drive.google.com/file/d/1BDTCGrJzboqXjVq7GRMHcDknY-N4k1DI/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gautam-yadav-215686196/) 
