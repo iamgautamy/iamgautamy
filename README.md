@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning and Deep Learning enthusiast with 2+ years of experience in Python,ML,DL,SQL. Previously worked at Samsung Prism as Research Project Intern.
+Machine Learning and Deep Learning enthusiast with 3+ years of experience in Python,ML,DL,SQL. Previously worked at Samsung Prism as Research Project Intern.
 
 # 📝 Resume
 [![Resume](https://img.shields.io/badge/Resume-blue)](https://drive.google.com/file/d/1BDTCGrJzboqXjVq7GRMHcDknY-N4k1DI/view?usp=drive_link)
